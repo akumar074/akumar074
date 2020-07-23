@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Java/Microservices.<!-- - 🤔 I’m looking for help with Design. -->
 - 📫 How to reach me: :link: [website](https://akumar074.github.io/) | :link: [LinkedIn](https://www.linkedin.com/in/abhishek-gill/)
 - 😄 Pronouns: He/Him
+
+<!-- [![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=akumar074)](https://github.com/anuraghazra/github-readme-stats)-->
